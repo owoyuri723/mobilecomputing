@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">취침이🐼</string>
+
+    <!-- Main Activity/Fragment -->
+    <string name="empty_view_text">Press the Floating Action Button to add an alarm!</string>
+
+    <!-- Edit Alarm Activity/Fragment -->
+    <string name="time">Time</string>
+    <string name="label">Label</string>
+    <string name="days">Days</string>
+    <string name="edit_alarm">알람 수정</string>
+    <string name="add_alarm">알람 등록</string>
+    <string name="add_label_hint">Add a label!</string>
+    <string name="update_complete">알람을 저장했어!</string>
+    <string name="update_failed">Update Failed</string>
+    <string name="delete_complete">알람을 삭제했어!</string>
+    <string name="delete_failed">Delete Failed</string>
+    <string name="delete_dialog_title">알람 삭제</string>
+    <string name="delete_dialog_content">이 알람을 삭제할거야?</string>
+    <string name="yes">넴</string>
+    <string name="no">아니욤</string>
+
+    <!-- Edit Alarm Menu -->
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+
+    <!-- Alarm Landing Page Activity/Fragment -->
+    <string name="launch_main_activity">Launch Main Activity</string>
+    <string name="dismiss">Dismiss</string>
+
+    <!-- Days -->
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+
+    <!-- Notification -->
+    <string name="channel_name">Simple Alarms</string>
+
+</resources>
